@@ -1,5 +1,5 @@
 # 문제: https://school.programmers.co.kr/learn/courses/30/lessons/389478
-# 접근: 2D 배열 구성 후 열 기준 카운
+# 접근: 2D 배열 구성 후 열 기준 카운트
 
 def solution(n, w, num):
     grid = []
