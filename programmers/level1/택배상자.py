@@ -1,5 +1,6 @@
 # 문제: https://school.programmers.co.kr/learn/courses/30/lessons/389478
 # 접근: 2D 배열 구성 후 열 기준 카운트
+# None = 빈 칸 표현 (Java의 null과 동일)
 
 def solution(n, w, num):
     grid = []
